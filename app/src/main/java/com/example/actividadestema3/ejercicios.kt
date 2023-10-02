@@ -8,6 +8,8 @@ fun main(){
 }
 
 
+//######################################CONDICIONALES###############################################
+
 //1. Escribe una función llamada esPar que tome un número como argumento y devuelva true si es
 //par y false si es impar.
 fun esPar(numero:Int):Boolean{
@@ -37,6 +39,13 @@ fun esMayorQue10YMenorQue20(n1:Int, n2: Int):Boolean{
     }
     return false;
 }
+
+//4. Crea una función llamada evaluarCalificacion que tome la calificación de un estudiante (un
+//número entre 0 y 100) como argumento y devuelva una letra de calificación (A, B, C, D, F)
+//utilizando una estructura when.
+
+
+
 
 
 
